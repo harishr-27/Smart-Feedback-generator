@@ -1,0 +1,11 @@
+Title: A Multifaceted Analysis of the Great Depression
+
+The Great Depression (1929-1939) remains the most significant economic catastrophe in modern history. While popular narrative often centers on the Stock Market Crash of October 1929 ("Black Tuesday"), a rigorous analysis reveals that the crash was merely a precipitating event exposing deeper structural weaknesses in the global economy, specifically regarding agricultural overproduction, wealth inequality, and disastrous monetary policy.
+
+Primary among these causes was the agricultural crisis of the 1920s. As historian David Kennedy notes, American farmers never shared in the "Roaring Twenties" prosperity. Following WWI, mechanization led to vast overproduction, driving prices down by over 40% before 1929. This eroded the purchasing power of nearly a quarter of the US workforce, creating a "demand gap" that remained hidden by easy credit until the bubble burst.
+
+Furthermore, the Federal Reserve's response exacerbated the liquidity crisis. Rather than acting as a lender of last resort, the Fed preserved the Gold Standard by raising interest rates in 1931. This contractionary policy forced thousands of solvent banks to close, destroying the life savings of millions and contracting the money supply by 30%.
+
+Finally, the Hawley-Smoot Tariff of 1930 intended to protect American industry but instead triggered a global trade war, reducing international commerce by 66%. This demonstrates how protectionist policies can transform a national recession into a global depression.
+
+In summary, the Depression was not an accident of nature but a failure of policy and structure. It teaches us that unregulated financial speculation combined with poor monetary governance can have devastating consequences.
